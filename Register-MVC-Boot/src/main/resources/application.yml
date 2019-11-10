@@ -1,0 +1,10 @@
+server:
+   port: 4343
+   servlet:
+        context-path: /RegisterMVC
+spring:
+   mvc:
+      view:
+          prefix: /
+          suffix: .jsp               
+   

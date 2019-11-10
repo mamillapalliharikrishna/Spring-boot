@@ -1,0 +1,1 @@
+ <jsp:forward page="registerPage"></jsp:forward>
